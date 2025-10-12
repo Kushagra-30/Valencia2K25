@@ -19,7 +19,7 @@ function Registration() {
       icon: "success",
       confirmButtonColor: "#2563eb",
     }).then(() => {
-      window.location.reload();
+      form.reset();
     });
   } else {
     Swal.fire({
