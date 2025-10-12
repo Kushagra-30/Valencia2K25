@@ -11,26 +11,26 @@ function Registration() {
       method: "POST",
       body: new FormData(form),
     })
-      .then((response) => response.json())
-      .then(() => {
-        Swal.fire({
-          title: "Submitted!",
-          text: "Thank you for registering.",
-          icon: "success",
-          confirmButtonColor: "#2563eb",
-        }).then(() => {
-          window.location.reload();
-        });
-      })
-      .catch((error) => {
-        Swal.fire({
+      .then((response) => {
+  if (response.ok) {
+    Swal.fire({
+      title: "Submitted!",
+      text: "Thank you for registering.",
+      icon: "success",
+      confirmButtonColor: "#2563eb",
+    }).then(() => {
+      window.location.reload();
+    });
+  } else {
+    Swal.fire({
           title: "Error!",
           text: "Something went wrong. Please try again.",
           icon: "error",
           confirmButtonColor: "#d33",
         });
-      });
-  };
+  }
+}) 
+  }
 
 
   return (
