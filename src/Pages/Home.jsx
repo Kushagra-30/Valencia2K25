@@ -13,7 +13,7 @@ function Home() {
 
         <div className="h-1/2 w-full flex flex-col justify-center items-center gap-4 px-10">
           <h1 className="w-full text-6xl font-bold text-center pt-3 font-cinzelDecorative md:text-7xl lg:text-9xl text-amber-100 drop-shadow-[0_0_10px_rgba(255,200,0,0.8)]" >
-            VALENCIA 
+            ComQuest
           </h1>
           <p className="w-full font-semibold text-black text-center pt-6 font-cinzel text-shadow-lg md:text-xl lg:text-2xl lg:w-2/3">
             Embark on a journey through the vibrant world of Commerce and Ideas. Whether you dream to lead, market, or create — this Fest welcomes you!
