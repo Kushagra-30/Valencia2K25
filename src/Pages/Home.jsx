@@ -8,7 +8,7 @@ function Home() {
     <img className="absolute top-0 left-0 w-full h-full object-cover -z-10" src="BG-Home.png" alt="" />
 
         <nav className="h-28 w-full text-center text-3xl flex items-center justify-center font-cinzel font-semibold">
-          <img className="absolute h-fit w-fit scale-[0.6] md:scale-[0.5] lg:scale-[0.2]" src="Mahaveer2k25.png" alt="" />
+          <img className="absolute h-fit w-fit scale-[0.6] md:scale-[0.5] lg:scale-[0.2]" src="WhatsApp_Image_2025-10-15_at_12,16,09_PM-removebg-preview-Picsart-AiImageEnhancer.png" alt="" />
         </nav>
 
         <div className="h-1/2 w-full flex flex-col justify-center items-center gap-4 px-10">
