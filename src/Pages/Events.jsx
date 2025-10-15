@@ -95,6 +95,7 @@ function Event() {
       <li>Time Duration: 5+1 Minute</li>
       <li>Brand selection: Participants can choose any existing brand (old/new), to creatively relaunch or rebrand.</li>
       <li>Format of presentation (PPT/Poster).</li>
+      <li>Must send your ppt to the coordinators before 2nd November.</li>
     </ol>
   </div>
 
@@ -162,7 +163,7 @@ function Event() {
 </div>
 
 <div class="max-w-lg mx-auto bg-[#ffffffd1] shadow-lg rounded-lg p-6 md:p-8 my-6">
-  <h2 class="text-2xl md:text-3xl font-bold text-center mb-4">HERMES' PITCH :<br></br>MAD ADD</h2>
+  <h2 class="text-2xl md:text-3xl font-bold text-center mb-4">HERMES' PITCH :<br></br>MAD AD</h2>
   <div class="mb-6 font-cinzel">
     <h3 class="text-xl font-semibold mb-2">Rules:</h3>
     <ol class="list-decimal font-semibold list-inside space-y-1 ">
@@ -194,6 +195,7 @@ function Event() {
       <li>Individual Event.</li>
       <li>Time Duration: 3+1 minutes.</li>
       <li>Character will be chosen by yourself.</li>
+      <li>Character chosen by participant must be informed to coordinators.</li>
       <li>One participant from each college.</li>
     </ol>
   </div>
@@ -212,7 +214,7 @@ function Event() {
 </div>
 
 <div class="max-w-lg mx-auto bg-[#ffffffd1] shadow-lg rounded-lg p-6 md:p-8 my-6">
-  <h2 class="text-2xl md:text-3xl font-bold text-center mb-4">PANDORA'S MYSTERY :<br></br>SPECIAL EVENT </h2>
+  <h2 class="text-2xl md:text-3xl font-bold text-center mb-4">PANDORA'S MYSTERY :<br></br>SPECIAL EVENT</h2>
   <div class="mb-6 font-cinzel">
     <h3 class="text-xl font-semibold mb-2">Rules:</h3>
     <ol class="list-decimal font-semibold list-inside space-y-1 ">
