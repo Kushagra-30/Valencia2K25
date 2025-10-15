@@ -107,7 +107,7 @@ function Registration() {
           <input name="Marketing" type="checkbox" 
           value="yes" 
            class="accent-blue-600" />
-          <span>8. ATHENIAN MARKET (MARKETING)</span>
+          <span>8. ECHOES OF ATHENA (MOCK PRESS)</span>
         </label>
         <label class="flex items-center space-x-2">
           <input name="Special_Event" type="checkbox" 
