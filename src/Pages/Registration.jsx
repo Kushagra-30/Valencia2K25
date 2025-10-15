@@ -96,7 +96,7 @@ function Registration() {
         <label class="flex items-center space-x-2">
           <input name="Modling_Presentation" type="checkbox" 
           value="yes" class="accent-blue-600" />
-          <span>6. MEDUSA'S VISION (MODLING PRESENTATION)</span>
+          <span>6. MEDUSA'S VISION (MODELING PRESENTATION)</span>
         </label>
         <label class="flex items-center space-x-2">
           <input name="Mad_Add" type="checkbox" 
