@@ -101,7 +101,7 @@ function Registration() {
         <label class="flex items-center space-x-2">
           <input name="Mad_Add" type="checkbox" 
           value="yes" class="accent-blue-600" />
-          <span>7. HERMES' PITCH (MAD ADD)</span>
+          <span>7. HERMES' PITCH (MAD AD)</span>
         </label>
         <label class="flex items-center space-x-2">
           <input name="Marketing" type="checkbox" 
