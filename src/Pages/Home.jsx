@@ -26,7 +26,7 @@ function Home() {
           <Link to="/events">
           <button className="inline-flex  items-center justify-center bg-gray-900 hover:bg-gray-800 text-white rounded-lg duration-200 md:px-4 px-2 py-2 md:py-3 font-bold shadow-lg shadow-neutral-500/20 transition active:scale-95 font-cinzel">See Events</button>
           </Link>
-           <button className="inline-flex  items-center justify-center bg-gray-900 hover:bg-gray-800 text-white rounded-lg duration-200 md:px-4 px-2 py-2 md:py-3 font-bold shadow-lg shadow-neutral-500/20 transition active:scale-95 font-cinzel">Download Brochure</button>
+           <a href="./ComQuest-Brochure.pdf" className="inline-flex  items-center justify-center bg-gray-900 hover:bg-gray-800 text-white rounded-lg duration-200 md:px-4 px-2 py-2 md:py-3 font-bold shadow-lg shadow-neutral-500/20 transition active:scale-95 font-cinzel">Download Brochure</a>
         </div>
 
         <div className="h-16 w-full flex items-center justify-center ">
