@@ -57,7 +57,7 @@ function Registration() {
 
     <div>
       <label class="block  font-semibold mb-1">Staf Name</label>
-      <input type="tel" placeholder="Enter contact number" name="Staff_Name" class="w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-amber-200 focus:outline-none" />
+      <input type="text" placeholder="Enter contact number" name="Staff_Name" class="w-full border border-gray-300 rounded-md p-2 focus:ring-2 focus:ring-amber-200 focus:outline-none" />
     </div>
 
     <div>
